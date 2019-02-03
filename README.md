@@ -6,3 +6,10 @@ Status:
 [![Build Status](https://img.shields.io/travis/commitizen/cz-conventional-changelog.svg?style=flat-square)](https://travis-ci.org/commitizen/cz-conventional-changelog)
 
 Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts for [conventional changelog](https://github.com/conventional-changelog/conventional-changelog) standard.
+
+```sh
+
+$ npm install -g commitizen cz-conventional-changelog-ichiwa
+$ echo '{ "path": "cz-conventional-changelog-ichiwa" }' > ~/.czrc
+
+```
